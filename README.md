@@ -35,6 +35,6 @@ The Project Started 14th of July and Submitted and Approved at 16th of July 2021
 -   `python .`
 -   Have Fun!
 
-**Feel free to copy, snip, clone, and/or for the project**
+**Feel free to copy, snip, clone, and/or fork the project**
 ### Thanks,
 ### BM
