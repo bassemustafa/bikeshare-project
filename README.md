@@ -1,15 +1,15 @@
-#  Bike Share System Data Exploration.
+#  Bike-Share System Data Exploration.
 
 ## Udacity Data Analysis Nanodegree Project.
 
-The project filtered a data from [Divvy](https://www.divvybikes.com/) bike share system in US and provide the user some exploration data with his/her filter.
+The project filtered data from the [Divvy](https://www.divvybikes.com/) bike-share system in the US and provide the user some exploration data with his/her filter.
 
 The project was introduced as the first project in **Professional Track of Udacity Data Analysis Degree** in cooperate with **Egypt FWD**.
 
 ### The Project Walkthrough:
 
 - Ask a user for an US State to load its dataset.
-- User choose to filter the data with Day, Month, Both or None.
+- The user chooses to filter the data with Day, Month, Both ,or None.
 - Make filtering and handling missing values.
 - Provides the user with some exploration analysis of the dataset:
   - Most Common Month.
@@ -25,9 +25,9 @@ The project was introduced as the first project in **Professional Track of Udaci
   - Users Earliest Birth Year (IF Available).
   - Users Most Recent Birth Year (IF Available).
   - Users Most Common Birth Year (IF Available).
-- Show a sample of data as many asthe user needs.
+- Show a sample of data as much as the user needs.
 
-The Project Started 14th of July and Submitted and Approved at 16th of July 2021.
+The Project Started on the 14th of July and was Submitted and Approved on th 16th of July 2021.
 
 **Give it try:**
 -   Clone the repo.
